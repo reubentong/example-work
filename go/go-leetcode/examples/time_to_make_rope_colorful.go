@@ -4,6 +4,7 @@ import "fmt"
 
 //https://leetcode.com/problems/minimum-time-to-make-rope-colorful/
 //https://leetcode.com/submissions/detail/814855059/
+
 //loop through letters
 // if colour [i] = colour - 1 [i-1] get the time [i]
 // add all time
